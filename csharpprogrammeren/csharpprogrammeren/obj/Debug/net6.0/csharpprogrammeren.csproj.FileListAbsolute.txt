@@ -1,0 +1,15 @@
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\bin\Debug\net6.0\csharpprogrammeren.exe
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\bin\Debug\net6.0\csharpprogrammeren.deps.json
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\bin\Debug\net6.0\csharpprogrammeren.runtimeconfig.json
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\bin\Debug\net6.0\csharpprogrammeren.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\bin\Debug\net6.0\ref\csharpprogrammeren.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\bin\Debug\net6.0\csharpprogrammeren.pdb
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.csproj.AssemblyReference.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.AssemblyInfoInputs.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.AssemblyInfo.cs
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.csproj.CoreCompileInputs.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\ref\csharpprogrammeren.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.pdb
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\csharpprogrammeren\csharpprogrammeren\obj\Debug\net6.0\csharpprogrammeren.genruntimeconfig.cache

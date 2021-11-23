@@ -1,0 +1,15 @@
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\bin\Debug\net6.0\zak van sinterklaas.exe
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\bin\Debug\net6.0\zak van sinterklaas.deps.json
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\bin\Debug\net6.0\zak van sinterklaas.runtimeconfig.json
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\bin\Debug\net6.0\zak van sinterklaas.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\bin\Debug\net6.0\ref\zak van sinterklaas.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\bin\Debug\net6.0\zak van sinterklaas.pdb
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.csproj.AssemblyReference.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.AssemblyInfoInputs.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.AssemblyInfo.cs
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.csproj.CoreCompileInputs.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\ref\zak van sinterklaas.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.pdb
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 2\c#programmeren\csharpprogrammeren\zak van sinterklaas\zak van sinterklaas\obj\Debug\net6.0\zak van sinterklaas.genruntimeconfig.cache
