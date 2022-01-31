@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\zak van sinterklaas.csproj": {}
+    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\sunburn attacks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\zak van sinterklaas.csproj": {
+    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\sunburn attacks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\zak van sinterklaas.csproj",
-        "projectName": "zak van sinterklaas",
-        "projectPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\zak van sinterklaas.csproj",
+        "projectUniqueName": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\sunburn attacks.csproj",
+        "projectName": "sunburn attacks",
+        "projectPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\sunburn attacks.csproj",
         "packagesPath": "C:\\Users\\aidan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sunburn attacks/1.0.0": {
+        "runtime": {
+          "sunburn attacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sunburn attacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\zak van sinterklaas.csproj",
-      "projectName": "zak van sinterklaas",
-      "projectPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\zak van sinterklaas.csproj",
+      "projectUniqueName": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\sunburn attacks.csproj",
+      "projectName": "sunburn attacks",
+      "projectPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\sunburn attacks.csproj",
       "packagesPath": "C:\\Users\\aidan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 2\\c#programmeren\\csharpprogrammeren\\zak van sinterklaas\\zak van sinterklaas\\obj\\",
       "projectStyle": "PackageReference",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
